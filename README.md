@@ -2,7 +2,7 @@
 
 # vol.py
 By executing vol.py , User can control volume of their device using their finger gestures.<br />
-#Controls:<br />
+Controls:<br />
 If distance between Index fingers and thumb is 0 (both thumb and finger touches other) then volume will be 0.<br />
 As distance between Index fingers and thumb increases volume increases<br />
 
